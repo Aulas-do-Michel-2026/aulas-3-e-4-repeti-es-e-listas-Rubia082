@@ -44,7 +44,7 @@ lista_de_organismos = [[50, 50, 50], [125, 99, 12], [19, 91, 42], [40, 189, 0], 
 indice_do_maior = 0
 media_do_maior = 0
 
-for i in range(len(lista_de_organismosa)):
+for i in range(len(lista_de_organismos)):
     organismo = lista_de_organismos[i]
 
     soma = 0
