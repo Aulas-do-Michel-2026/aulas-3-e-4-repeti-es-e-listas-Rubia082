@@ -47,8 +47,8 @@ for valor in segunda_lista:
         maior_segunda = valor
 
 if maior_primeira > maior_segunda:
-    print(f"Resposta: \nPrimeira")
+    print(f"Primeira")
 elif maior_segunda > maior_primeira:
-    print(f"Resposta: \nSegunda")
+    print(f"Segunda")
 else:
-    print(f"Resposta: \nAmbas")
+    print(f"Ambas")
